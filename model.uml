@@ -6,6 +6,7 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="_gkQ9kKotEeeeJd8487dY5g">
     <importedPackage xmi:type="uml:Package" href="pathmap://SysML14_LIBRARIES/SysML-Standard-Library.uml#SysML.package_packagedElement_Libraries"/>
   </packageImport>
+  <packagedElement xmi:type="uml:Package" xmi:id="_q_mUAKotEeeeJd8487dY5g" name="GIT"/>
   <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_ghIKAKotEeeeJd8487dY5g">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ghR7AKotEeeeJd8487dY5g" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/sysml/1.4/SysML#/"/>
