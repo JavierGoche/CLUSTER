@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:configuration="http://www.eclipse.org/papyrus/infra/viewpoints/configuration" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
   <notation:Diagram xmi:id="_o_BdQKSkEeeg1IF4q3rsUA" type="PapyrusUMLClassDiagram" name="vel" measurementUnit="Pixel">
     <children xmi:type="notation:Shape" xmi:id="_rg3u8KSkEeeg1IF4q3rsUA" type="Class_Shape">
@@ -868,3 +869,23 @@
     <element xmi:type="uml:Model" href="model.uml#_Vd9_0KShEeeg1IF4q3rsUA"/>
   </notation:Diagram>
 </xmi:XMI>
+=======
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:configuration="http://www.eclipse.org/papyrus/infra/viewpoints/configuration" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_nENcgKotEeeeJd8487dY5g" type="PapyrusUMLClassDiagram" name="1" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_q_wFAKotEeeeJd8487dY5g" type="Package_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_q_wFAqotEeeeJd8487dY5g" type="Package_NameLabel"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_q_wFA6otEeeeJd8487dY5g" type="Package_PackagedElementCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_q_wFBKotEeeeJd8487dY5g"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q_wFBaotEeeeJd8487dY5g"/>
+    </children>
+    <element xmi:type="uml:Package" href="model.uml#_q_mUAKotEeeeJd8487dY5g"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q_wFAaotEeeeJd8487dY5g" x="268" y="216"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_nENcgaotEeeeJd8487dY5g" name="diagram_compatibility_version" stringValue="1.2.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_nENcgqotEeeeJd8487dY5g"/>
+  <styles xmi:type="style:PapyrusViewStyle" xmi:id="_nENcg6otEeeeJd8487dY5g">
+    <owner xmi:type="uml:Model" href="model.uml#_ggFoMKotEeeeJd8487dY5g"/>
+    <configuration xmi:type="configuration:PapyrusDiagram" href="platform:/plugin/org.eclipse.papyrus.uml.diagram.clazz/model/clazzdiagram.configuration#_zzf4cXDtEeWh-MssWmCB_A"/>
+  </styles>
+  <element xmi:type="uml:Model" href="model.uml#_ggFoMKotEeeeJd8487dY5g"/>
+</notation:Diagram>
+>>>>>>> refs/remotes/origin/master
